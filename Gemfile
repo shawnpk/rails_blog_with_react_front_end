@@ -41,6 +41,8 @@ gem 'webpacker', '~> 3.5', '>= 3.5.5'
 # React gem for Rails
 gem 'react-rails', '~> 2.4', '>= 2.4.7'
 
+# gem 'sprockets', '>= 3.7.2'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
