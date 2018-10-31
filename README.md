@@ -1,3 +1,5 @@
-This is the repository of the Alpha Blog app of the Rails JavaScript Development course.
+# Rails Blog app with React Front-End
 
-- This was built using Ruby on Rails
+* started as a Rails app
+* added webpacker gem
+* added react-rails gem
